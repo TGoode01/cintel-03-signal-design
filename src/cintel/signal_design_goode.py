@@ -1,7 +1,7 @@
 """
 signal_design_case.py - Project script (example).
 
-Author: Denise Case
+Author: Tamia M. Goode
 Date: 2026-03
 
 System Metrics Data
@@ -29,12 +29,12 @@ Questions to Consider
 
 Paths (relative to repo root)
 
-    INPUT FILE: data/system_metrics_case.csv
-    OUTPUT FILE: artifacts/signals_case.csv
+    INPUT FILE: data/system_metrics_goode.csv
+    OUTPUT FILE: artifacts/signals_goode.csv
 
 Terminal command to run this file from the root project folder
 
-    uv run python -m cintel.signal_design_case
+    uv run python -m cintel.signal_design_goode
 
 OBS:
   Don't edit this file - it should remain a working example.
